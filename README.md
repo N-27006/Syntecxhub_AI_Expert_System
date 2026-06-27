@@ -21,3 +21,6 @@ python main.py
 
 ## Author
 Durga
+## Output
+
+![Project Output](output_screenshot.jpg)
